@@ -20,7 +20,7 @@
             controllerAs: 'menu',
             bindToController: true
         };
-
+ 
         return ddo;
     }
 
